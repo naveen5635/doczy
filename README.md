@@ -2,11 +2,6 @@
 
 **Doczy 📑** is an innovative web application built using Python and Streamlit, designed to provide seamless document analysis and interaction. The app leverages the power of advanced AI models like **DeepSeek-R1:7b** for deep learning-based insights and **LangChain** for enhancing natural language processing capabilities. Whether you're working with large datasets, PDFs, or any other document type, Doczy makes it easy to extract, analyze, and interact with information. It's the perfect tool for anyone looking to streamline document management and gain deeper insights from their data.
 
-If you have any doubt, Feel free to contact me!
-
-Here’s a "How to Use" section for your repository:
-
----
 
 ### How to Use Doczy 📑
 
@@ -25,7 +20,7 @@ Here’s a "How to Use" section for your repository:
 3. **Start the Application:**
    Launch the application with Streamlit by running:
    ```bash
-   streamlit run app.py
+   streamlit run doczy.py
    ```
 
 4. **Upload Your Documents:**
@@ -36,7 +31,3 @@ Here’s a "How to Use" section for your repository:
 
 6. **View Results:**
    The results will be displayed in real-time, allowing you to extract valuable insights from the document. You can interact with the text, ask questions, or perform other actions depending on the document type and analysis.
-
----
-
-Feel free to modify any details or steps based on the app’s specific features or configuration!
