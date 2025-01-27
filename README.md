@@ -13,13 +13,13 @@ Here’s a "How to Use" section for your repository:
 1. **Clone the Repository:**
    First, clone this repository to your local machine using the following command:
    ```bash
-   git clone https://github.com/yourusername/Doczy.git
+   git clone https://github.com/naveen5635/doczy.git
    ```
 
 2. **Install Dependencies:**
    Navigate to the project directory and install the required dependencies by running:
    ```bash
-   pip install -r requirements.txt
+   pip install -r req.txt
    ```
 
 3. **Start the Application:**
